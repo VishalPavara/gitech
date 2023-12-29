@@ -1,1 +1,1 @@
-# This is my gittech Repo
+# This is my gitech Repo
